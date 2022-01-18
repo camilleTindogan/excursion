@@ -8,6 +8,7 @@ header, main{
 }
 h1{
     color:white;
+    font-size: 2.5em;
     font-family: Arial, Helvetica, sans-serif;
     font-weight:100;
 }
@@ -17,4 +18,14 @@ h1{
     font-weight:100;
     font-size: 1.5em;
     color:aquamarine;
+}
+
+.main--content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em;
+    color:white;
+    opacity:0.5;
 }
